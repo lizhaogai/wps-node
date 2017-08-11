@@ -1,0 +1,11 @@
+{
+  "name": "wps-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "winax": "^1.0.3"
+  }
+}
